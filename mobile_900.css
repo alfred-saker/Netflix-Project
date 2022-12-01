@@ -1,0 +1,9 @@
+body{
+    
+}
+main{
+    padding:20px;
+}
+main img{
+    display: none; /* permet de cacher un element*/
+}
